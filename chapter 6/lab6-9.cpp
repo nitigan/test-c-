@@ -11,6 +11,7 @@ int main()
     cin >> Value2;
     cout << "Max value : " << Max(Value1,Value2) << endl;
     cout << "Min value : " << Min(Value1,Value2) << endl;
+    system("pause");
     return(0);
 }
 

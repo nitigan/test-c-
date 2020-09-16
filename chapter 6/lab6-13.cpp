@@ -9,6 +9,7 @@ int main()
     ParseName(FirstName,LastName,Name);
     Name = FirstName + " " + LastName;
     cout << "Name : " << Name << endl;
+    system("pause");
     return(0);
 }
 

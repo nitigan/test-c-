@@ -35,6 +35,7 @@ int main()
         }
     } while (Flag);
     cout << "\n . . . Exit Program . . .\n";
+    system("pause");
     return(0);
 }
 

@@ -14,6 +14,7 @@ int main()
     cout << Value1 << " " << Value2 << " " << Value3 ;
     cout << " in sorted order is " ;
     cout << Output1 << " " << Output2 << " " << Output3 << endl;
+    system("pause");
     return(0);
 }
 

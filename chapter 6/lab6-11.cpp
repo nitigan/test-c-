@@ -20,6 +20,7 @@ int main()
     cout << "Data string after cal function.\n";
     cout << "Str1 = " << Str1 << endl;
     cout << "Str2 = " << Str2 << endl;
+    system("pause");
     return(0);
 }
 

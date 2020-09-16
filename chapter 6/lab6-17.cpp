@@ -25,6 +25,7 @@ int main()
     cout << "\n After call function...";
     cout << "\n n1 = " << N1 << ", n2 = " << N2;
     cout << ", string = " << Name << endl;
+    system("pause");
     return(0);
 }
 

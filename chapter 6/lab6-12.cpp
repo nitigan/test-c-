@@ -20,6 +20,7 @@ int main()
     b(); /* static local x retains its previous value */
     c(); /* global x also retains its value */
     cout << "local x in main " << x << endl;
+    system("pause");
     return(0);
 }
 

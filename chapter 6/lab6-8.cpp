@@ -6,6 +6,7 @@ int main()
     cout << "Program Calculate of Circle." << endl;
     cout << "****************************" << endl;
     CalCircle();
+    system("pause");
     return(0);
 }
 void CalCircle( )

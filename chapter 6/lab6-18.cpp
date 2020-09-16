@@ -12,6 +12,7 @@ int main()
     cout << "\nEnter double number.\n";
     cin >> d1 >> d2;
     cout << "Max = " << Max<double>(d1,d2) << endl;
+    system("pause");
     return(0);
 }
 

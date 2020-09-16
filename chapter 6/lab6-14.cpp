@@ -16,6 +16,7 @@ int main()
     cout << " = " << Summation(5) << endl;
     cout << "Summation of Number " << 1 << " to " << 10;
     cout << " = " << Summation() << endl;
+    system("pause");
     return(0);
 }
 

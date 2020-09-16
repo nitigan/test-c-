@@ -14,6 +14,7 @@ int main()
     Fac = Factorial2(Value);
     cout << "Factorial2 of " << Value << " is ";
     cout << Fac << endl;
+    system("pause");
     return(0);
 }
 

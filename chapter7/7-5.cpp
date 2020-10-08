@@ -33,7 +33,7 @@ void Sort(int temp[],const int Max)
             swap(temp[i],temp[n]);
         
         /* display for result of sorting */
-        cout << "\n" << i+1 << " : ";
+        cout << "\n Loop" << i+1 << " : ";
         for( j = 0; j < Max ; j++) 
             cout << setw(5) << temp[j];
     }

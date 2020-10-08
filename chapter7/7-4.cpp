@@ -11,8 +11,8 @@ int main()
     for(int i = 0 ; i < 5 ; i++)
         cout << Data[i] << " ";
     cout << endl;
-    
-    PassByArray(Data); // array is passed pass-by-reference
+    // array is passed pass-by-reference
+    PassByArray(Data); 
     cout << "Pass by array's value : ";
 
     for(int i = 0 ; i < 5 ; i++)
